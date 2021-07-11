@@ -5,6 +5,9 @@
 PW generator allows the user to generate an array of different
 passwords for security purposes
 
+## Images
+
+
 ## Installation
 
 [You can pull the link to my portfolio from here:] https://github.com/juju669/challenge-3
