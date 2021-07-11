@@ -7,9 +7,9 @@ passwords for security purposes
 
 ## Installation
 
-[You can pull the link to my portfolio from here:]
+[You can pull the link to my portfolio from here:] https://github.com/juju669/challenge-3
 
-[My portfolio is published here:]
+[My portfolio is published here:] https://juju669.github.io/challenge-3/
 
 ## Made by:
 
